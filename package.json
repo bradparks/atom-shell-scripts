@@ -1,0 +1,18 @@
+{
+  "name": "atom-shell-scripts",
+  "description": "Sample script files to run atom-shell based applications.",
+  "version": "0.1.0",
+  "homepage": "https://github.com/yneves/atom-shell-scripts",
+  "author": {
+    "name": "Yuri Neves Silveira",
+    "url": "http://yneves.com/",
+    "email": "npm@yneves.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yneves/atom-shell-scripts.git"
+  },
+  "main": "main.js",
+  "keywords": ["atom-shell","atom"],
+  "dependencies": {}
+}
