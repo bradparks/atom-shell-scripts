@@ -67,8 +67,7 @@ function openWindow() {
 	mainWindow.on("closed", function() {
 		mainWindow = null;
 	});
-	mainWindow.loadUrl(cwd + "/index.html");
-	mainWindow.openDevTools();
+	mainWindow.loadUrl(cwd + "/index.html");	
 }
 
 // - -------------------------------------------------------------------- - //
